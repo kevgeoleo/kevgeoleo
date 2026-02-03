@@ -1,6 +1,6 @@
 # Kevin George Leo | Student @ Saarland University
 
-**MSc Informatik @ Saarland University **
+**MSc Informatik @ Saarland University**
 
 📍 Saarbrücken, Germany | 📧 kevgeoleo1999@gmail.com | 📧 kele00001@stud.uni-saarland.de
 
