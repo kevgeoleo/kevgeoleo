@@ -1,4 +1,4 @@
-# Kevin George Leo | Masters Student @ Saarland University
+# Kevin George Leo | Masters Student 
 
 **MSc Informatik @ Saarland University**
 
