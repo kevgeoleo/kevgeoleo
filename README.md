@@ -14,6 +14,9 @@
 | **CVE-2026-25047** | [GHSA-2733-6c58-pf27](https://github.com/advisories/GHSA-2733-6c58-pf27) | Prototype pollution vulnerability |
 | **GHSA-gcrg-hrj9-ggqg** | [GHSA-gcrg-hrj9-ggqg](https://github.com/davideicardi/confinit/security/advisories/GHSA-gcrg-hrj9-ggqg) | Prototype pollution vulnerability |
 | **CVE-2026-26021** | [GHSA-2c4m-g7rx-63q7](https://github.com/advisories/GHSA-2c4m-g7rx-63q7) | Prototype pollution vulnerability |
+| **CVE-2026-27212** | [GHSA-hmx5-qpq5-p643]([https://github.com/advisories/GHSA-2c4m-g7rx-63q7](https://github.com/nolimits4web/swiper/security/advisories/GHSA-hmx5-qpq5-p643)) | Prototype pollution vulnerability |
+
+
 
 
 <!--
