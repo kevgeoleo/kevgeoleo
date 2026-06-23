@@ -2,7 +2,7 @@
 
 **MSc Informatik @ Saarland University**
 
-📍 Saarbrücken, Germany | 📧 kevgeoleo1999@gmail.com | 📧 kele00001@stud.uni-saarland.de
+📍 Saarbrücken, Germany | 📧 kevgeoleo1999@gmail.com | 📧 kele00001@stud.uni-saarland.de | https://kevgeoleo.github.io/
 
 ---
 
